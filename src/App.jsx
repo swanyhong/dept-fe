@@ -92,7 +92,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>부서 관리 시스템 (React)</h1>
+      <h1>부서 관리 시스템 (React , Vite)</h1>
 
       {/* 입력 / 수정 폼 */}
       <form onSubmit={handleSubmit} className="dept-form">
